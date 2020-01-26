@@ -8,3 +8,4 @@ app.use(express.static(__dirname + '/../react-client/dist'));
 
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
+// “/api/restaurants/photos?id={1}”
