@@ -13,3 +13,8 @@ CREATE TABLE photos (
   PRIMARY KEY (id)
 );
 
+-- App & Service Plan Doc:	copy of script from your package.json that you run to seed your database
+-- Choice of DB:	Enter text
+-- Seeding Script:	copy of script from your package.json that you run to seed your database
+-- Link to a PR or file that I code reviewed:	link to GitHub Pull Request
+
